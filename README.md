@@ -6,3 +6,6 @@ Basic CRUD
 
 
 ![Article](article.png)
+
+
+Path: basic_crud_symfony_medium_alex_vo/public/article/
